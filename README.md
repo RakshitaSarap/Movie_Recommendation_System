@@ -6,6 +6,8 @@ In the current landscape of digital media, users face challenges in discovering 
 
 ![Movie Recommendation System](final.png)
 
+## Scope and Importance
+
 ### Scope:
 
 This project focuses on developing a content-based movie recommender system utilizing cosine similarity. It involves gathering movie metadata such as genre, cast, and plot synopsis, and implementing cosine similarity algorithms to compute similarity scores between movies based on their features. The system will then recommend movies to users based on their preferences and similarities to movies they have enjoyed. Key components include data collection, feature extraction, cosine similarity computation, and recommendation generation.
@@ -65,3 +67,5 @@ Here are our group members:
 2. [Rakshita Sarap](https://github.com/RakshitaSarap)
 
 3. [Saish Rane](https://github.com/saishrane-11)
+
+
